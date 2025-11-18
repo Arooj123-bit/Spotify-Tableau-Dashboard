@@ -65,7 +65,7 @@ The dataset includes the following key audio features:
 
 The following image represents the key findings and distributions analyzed:
 
-![Spotify Dashboard Visualization](https://public.tableau.com/views/SpotifyfeauturesDashboard/SpotifyfeaturesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Spotify Dashboard Visualizatio](https://public.tableau.com/views/SpotifyfeauturesDashboard/SpotifyfeaturesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
